@@ -1,5 +1,5 @@
 # NAS-quantization
-The code for Joint Neural Architecture Search and Quantization
+The code for [Joint Neural Architecture Search and Quantization](https://arxiv.org/abs/1811.09426)
 
 ## Requirements
 * pytorch 0.4.1
