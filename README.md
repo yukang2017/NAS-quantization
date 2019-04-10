@@ -16,4 +16,5 @@ For CIFAR-10 models, we rely on the traing code from [DARTS](https://github.com/
 For ImageNet models, we rely on the traing code from [RENASNet](https://github.com/yukang2017/RENAS) to train and evaluate the searched network.
 
 ## Acknowledgements
-Our implementation about quantization highly replies on the [quantized_distillation](https://github.com/antspy/quantized_distillation). We also thanks for the inspiring [DARTS](https://github.com/quark0/darts).
+Our implementation about quantization highly replies on the [quantized_distillation](https://github.com/antspy/quantized_distillation). \\
+We also thanks for the inspiring work [DARTS](https://github.com/quark0/darts).
